@@ -1,3 +1,4 @@
+//go:build freebsd || openbsd || dragonfly || netbsd || darwin
 // +build freebsd openbsd dragonfly netbsd darwin
 
 package hbot
