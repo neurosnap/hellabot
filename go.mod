@@ -1,4 +1,4 @@
-module github.com/whyrusleeping/hellabot
+module github.com/neurosnap/hellabot
 
 go 1.14
 
